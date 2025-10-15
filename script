@@ -1,6 +1,6 @@
 #! /bin/bash
 sudo -i
 apt update
-apt install git nginx -y
+apt install git apache2 -y
 git clone https://github.com/karishma1521successs/swiggy-clone.git
 mv swiggy-clone/* /var/www/html/
