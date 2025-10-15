@@ -2,5 +2,5 @@
 sudo -i
 apt update
 apt install git apache2 -y
-git clone https://github.com/karishma1521successs/swiggy-clone.git
-mv swiggy-clone/* /var/www/html/
+git clone https://github.com/Ironhack-Archive/online-clone-amazon.git
+mv online-clone-amazon/* /var/www/html/
